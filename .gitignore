@@ -1,0 +1,7 @@
+venv/
+data/
+stego_lsb/
+stego_dct/
+stego_dwt/
+.DS_Store
+.DS_Store
